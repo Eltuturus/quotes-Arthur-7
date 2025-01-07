@@ -4,8 +4,8 @@ Programming Quote Generator
 A python program that generates programming quotes and jokes.
 
 Contributors
-initiator: - LAPREE Sacha
-contributor-1: - MEYER Carl
+initiator: - Languillon Quentin
+contributor-1: - 
 contributor-2: - RIGOLOT jeremy
 contributor-3: - Morry Tibo
 Fork urls

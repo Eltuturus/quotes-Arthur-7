@@ -1,5 +1,5 @@
 # quotes-sharks-7
-Groupe 8
+Groupe 7
 Programming Quote Generator
 A python program that generates programming quotes and jokes.
 
